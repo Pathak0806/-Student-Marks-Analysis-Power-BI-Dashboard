@@ -27,10 +27,5 @@ It includes columns like:
 
 ---
 
-## 📸 Dashboard Preview:
-![Dashboard](screenshots/dashboard.png)
-
----
-
 ## 🔗 Author:
 [Vivek Pathak](https://github.com/YOUR_GITHUB_USERNAME)
