@@ -1,31 +1,28 @@
-# 🎓 Student Marks Analysis - Power BI Dashboard
+🎓 Student Marks Analysis Dashboard (Power BI)
+🔍 Overview
+This Power BI dashboard provides an intuitive and interactive way to analyze student performance across multiple subjects. Identify top achievers, compare class-wise scores, and gain valuable insights into overall trends.
 
-## 📌 Objective:
-To analyze students’ marks across subjects and identify the top performers using interactive Power BI visuals.
+📁 Dataset
+File: Student_Marks.xlsx Includes student marks across different subjects, enabling comprehensive analysis.
 
----
+🌟 Key Features
+📈 Subject-Wise Averages – Calculate and visualize the average marks for each subject.
 
-## 📁 Dataset:
-**File:** `Student_Marks`  
-It includes columns like:
-- Student Name
-- Class
-- Marks in subjects like Maths, Science, English, etc.
+🏅 Top Performer Ranking – Identify the top five students based on their overall marks.
 
----
+📊 Dynamic Visualizations – Interactive bar charts to explore performance trends.
 
-## 🧠 Key Insights:
-- Quickly identify which subject has the highest average.
-- Spot top-performing students.
-- Allow dynamic filtering by class.
+🔎 Class-Based Filtering – Slicers to refine data analysis by class (6, 7, 8).
 
----
+📷 Dashboard Preview – A snapshot of insights at a glance.
 
-## 🛠 Tools Used:
-- Microsoft Power BI Desktop
-- Excel for raw data
+🚀 Getting Started
+1️⃣ Download the .pbix file. 2️⃣ Open it using Power BI Desktop. 3️⃣ Use filters and slicers to customize your analysis. 4️⃣ Replace the dataset with your own student marks data for personalized insights.
 
----
+🛠 Technologies Used
+Power BI Desktop – For data visualization & analysis.
 
-## 🔗 Author:
-[Vivek Pathak](https://github.com/YOUR_GITHUB_USERNAME)
+Excel – To structure and maintain student marks.
+
+👤 Author
+Vivek Pathak
